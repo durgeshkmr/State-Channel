@@ -1,16 +1,6 @@
 <h1 align="center">
-<div><img src="./orange_fireball.svg"> </div>
-Magmo Apps
-</h1>
-Welcome to the Magmo mono-repo, home of several proof-of-concept applications built on our state channel protocols.
 
-## For more information
 
-On our [website](https://magmo.com) you will find links to our whitepapers and contact information. Whether you simply want to try
-out our apps, or get involved more deeply we would love to hear your thoughts. Deployed versions of our games may be accessed with these links:
-
-- [Rock Paper Scissors](https://rps.magmo.com) (RPS)
-- [Tic Tac Toe](https://ttt.magmo.com) (TTT)
 
 ## Getting Started
 
